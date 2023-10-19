@@ -1,0 +1,7 @@
+/* Set the card's width and height to match A4 dimensions */
+.a4-card {
+    width: 210mm;
+    height: 297mm;
+    margin: 10mm auto;
+    padding: 10mm;
+}
